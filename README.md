@@ -1,2 +1,2 @@
-# python-client-server-manager
-A very simple utility for client-server communication using Python's multiprocessing.Manager
+# Python Client-Server IPC with Manager
+A very simple utility for inter-process communication over a network using Python's multiprocessing.Manager
